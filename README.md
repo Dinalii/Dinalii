@@ -1,5 +1,5 @@
 
-## Hi there, I'm Dinali Indeewari 👋
+## Hi there, I'm Dinali  👋
 
 ### I'm a Designer , Developer and a Traveller
 
