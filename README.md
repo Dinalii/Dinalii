@@ -3,6 +3,9 @@
 
 
 <h3 align="center">I'm a Designer , Developer and a Traveller</h3>
+</br>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Dinalii alt=dinalii/> </p>
+
 
 
 - 🎓 I’m currently undertaking my Bachelor's Degree in Computer Science at Informatics Institute of Technology | University of Westminster UK.
