@@ -55,6 +55,9 @@
 
 <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula-->
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinalii&layout=compact).
 
 
 [instagram]: https://instagram.com/_d_i_x_x_i_e?igshid=1wm77udqrvs59
