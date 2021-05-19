@@ -18,6 +18,7 @@
 ### Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
 [<img align="left" alt="Dinali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dinali | Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 [<img align="left" alt="Dinali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Dinali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
@@ -58,6 +59,7 @@
 
 [instagram]: https://instagram.com/_d_i_x_x_i_e?igshid=1wm77udqrvs59
 [linkedin]: https://www.linkedin.com/in/dinali-indeewari-9279311a5
+[behance]: https://www.behance.net/dinalii
 [facebook]: https://www.facebook.com/dinali.indeewari.3
 
 
