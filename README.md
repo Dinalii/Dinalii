@@ -11,7 +11,7 @@
 - 🎓 I’m currently undertaking my Bachelor's Degree in Computer Science at Informatics Institute of Technology | University of Westminster UK.
 - 👨🏼‍💻 I’m looking for an internship to establish myself as a skillful UI/UX Designer.
 - ⚡ 2021 Goals: Learn new technologies and to contribute projects.
-- 🌱 Fun fact: I love to Play guitar and travel
+- 🌱 Fun fact: I love to Play guitar,Drawing and travel
 
 ---
 
