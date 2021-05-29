@@ -66,7 +66,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/dinali-indeewari-9279311a5
+[linkedin]: https://www.linkedin.com/in/dinali-indeewari
 [behance]: https://www.behance.net/dinalii
 [facebook]: https://www.facebook.com/dinali.indeewari.3
 
