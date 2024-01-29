@@ -1,20 +1,20 @@
 
-<h1 align="center">Hi there👋, I'm Dinali :woman_student:</h1>
+<!-- <h1 align="center">Hi there👋, I'm Dinali :woman_student:</h1>
 
 
 <h3 align="center">I'm a UI/UX Enthusiast</h3>
-</br>
+</br>-->
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Dinalii alt=dinalii/> </p>
 
 
 
-- 🎓 I’m currently undertaking my Bachelor's Degree in Computer Science at Informatics Institute of Technology | University of Westminster UK.
+<!-- - 🎓 I’m currently undertaking my Bachelor's Degree in Computer Science at Informatics Institute of Technology | University of Westminster UK.-->
 <!--  💎 2021 Goals: Learn new technologies and to contribute projects.
 - 🌱 Fun fact:  I love to play guitar, Drawing, and travel -->
 
 ---
 
-### Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
+<!-- ### Connect with me: <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 
 [<img align="left" alt="Dinali | LinkedIn" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dinali | Behance" width="28px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
@@ -31,7 +31,7 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
 
----
+----->
 
 ### Languages and Tools:
 
